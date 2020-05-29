@@ -1,6 +1,6 @@
 home.airnowhk.com, Direct, Airnow
 adtelligent.com, 2410, RESELLER, 7de89dc7742b5b11
-adtelligent.com, 2410, RESELLER, 7de89dc7742b5b11
+adtelligent.com, 2409, RESELLER, 7de89dc7742b5b11
 meitu.com, 2282, RESELLER
 zoomd.com, 2413, RESELLER
 zoomd.com, 2415, RESELLER
