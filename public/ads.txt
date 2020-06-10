@@ -39,3 +39,4 @@ smartadserver.com, 3445, RESELLER
 rhythmone.com, 1816189007, RESELLER, a670c89d4a324e47
 admixer.net, 10294e09-c0df-4ac5-870e-896e74126d26, RESELLER
 yieldnexus.com, 96204, RESELLER
+ad-volt.com, 14957, RESELLER
