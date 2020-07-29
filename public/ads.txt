@@ -1,7 +1,9 @@
 home.airnowhk.com, Direct, Airnow
 adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176 
+adcolony.com, f858ba060bce51ad, RESELLER, 1ad675c9de6b5176
 admanmedia.com, 584, RESELLER
 admixer.net, 10294e09-c0df-4ac5-870e-896e74126d26, RESELLER
+admixer.net, 6b2a78a1-db08-41c5-abdf-86f6745b0ee6, RESELLER
 admixer.net, ef6718d6-458c-49bb-86d5-af2619505b6a, RESELLER
 adtelligent.com, 2409, RESELLER, 7de89dc7742b5b11
 adtelligent.com, 2410, RESELLER, 7de89dc7742b5b11
@@ -12,19 +14,21 @@ appnexus.com, 10617, RESELLER
 appnexus.com, 8178, RESELLER 
 appnexus.com, 8217, RESELLER, f5ab79cb980f11d1 
 appnexus.com, 9393, RESELLER
+appnexus.com,10490,RESELLER, f5ab79cb980f11d1
 aralego.com, par-D232D76A227923DA1D28D94AA9699AE8, RESELLER 
 audience.media, 100358, RESELLER
 cmcm.com, 127, DIRECT 
 cmcm.com, 284, RESELEER
 Contextweb.com, 561884, RESELLER, 89ff185a4c4e857c 
-home.airnowhk.com, Direct, Airnow
 improvedigital.com, 1668, RESELLER
 indexexchange.com, 191497, RESELLER
 inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
+kubient.com, 5ee778d45f979, RESELLER, 4f12311e6ed900a3
+meitu.com, 2282, RESELLER
 meitu.com, 253, DIRECT
 onetag.com, 59d216e971852f2, RESELLER
 openx.com, 537152826, RESELLER, 6a698e2ec38604c6 
-openx.com, 540011801, RESELLER, 6a698e2ec38604c6
+openx.com, 540011801, RESELLER, 6a698e2ec38604c6 
 pubmatic.com, 148791, RESELLER, 5d62403b186f2ace 
 Pubmatic.com, 155975, RESELLER, 5d62403b186f2ace 
 pubmatic.com, 157562, RESELLER, 5d62403b186f2ace
@@ -38,6 +42,7 @@ smartadserver.com, 3445, RESELLER
 sonobi.com, 7b37f8ccbc, RESELLER, d1a215d9eb5aee9e
 spotx.tv, 119135, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 119135, RESELLER, 7842df1d2fe2db34
+supply.colossusssp.com, 38, DIRECT, 6c5b49d96ec1b458
 ucfunnel.com, par-D232D76A227923DA1D28D94AA9699AE8, RESELLER
 video.unrulymedia.com, 3948367200, RESELLER
 waardex.com, 45273, RESELLER
