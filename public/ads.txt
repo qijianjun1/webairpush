@@ -7,6 +7,7 @@ admixer.net, 6b2a78a1-db08-41c5-abdf-86f6745b0ee6, RESELLER
 admixer.net, ef6718d6-458c-49bb-86d5-af2619505b6a, RESELLER
 adtelligent.com, 2409, RESELLER, 7de89dc7742b5b11
 adtelligent.com, 2410, RESELLER, 7de89dc7742b5b11
+advenuemedia.co.uk, 326, RESELLER
 advertising.com, 25001, RESELLER, e1a5b5b6e3255540
 advertising.com, 25034, RESELLER
 ad-volt.com, 14957, RESELLER
@@ -20,6 +21,9 @@ audience.media, 100358, RESELLER
 cmcm.com, 127, DIRECT 
 cmcm.com, 284, RESELEER
 Contextweb.com, 561884, RESELLER, 89ff185a4c4e857c 
+google.com, pub-2506150943914125, RESELLER, f08c47fec0942fa0  
+google.com, pub-3452022011371122, RESELLER, f08c47fec0942fa0
+google.com, pub-6968738577620513, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1668, RESELLER
 indexexchange.com, 191497, RESELLER
 inmobi.com, 3a4f7da341dd490cbb7dde02b126275e, RESELLER, 83e75a7ae333ca9d
@@ -46,5 +50,6 @@ supply.colossusssp.com, 38, DIRECT, 6c5b49d96ec1b458
 ucfunnel.com, par-D232D76A227923DA1D28D94AA9699AE8, RESELLER
 video.unrulymedia.com, 3948367200, RESELLER
 waardex.com, 45273, RESELLER
+xapads.com, 81322, RESELLER
 yieldnexus.com, 96204, RESELLER
 zoomd.com, 756448545, RESELLER
