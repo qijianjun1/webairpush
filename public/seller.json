@@ -1,93 +1,95 @@
 {
-    "version": "1.0",
-    "sellers": [
-    {
-        "seller_id": "268001",
-        "name": "silvermob",
-        "seller_type": "INTERMEDIARY",
-        "domain": "silvermob.com"
-    },
-    {
-        "seller_id": "358001",
-        "name": "admixer",
-        "seller_type": "INTERMEDIARY",
-        "domain": "admixer.com"
-    },
-    {
-        "seller_id": "289001",
-        "name": "smartyads",
-        "seller_type": "INTERMEDIARY",
-        "domain": "smartyads.com"
-    },
-       {
-        "seller_id": "258001",
-        "name": "clusteradmedia",
-        "seller_type": "INTERMEDIARY",
-        "domain": "clusteradmedia.com"
-    },
-    {
-        "seller_id": "292001",
-        "name": "advenuemedia",
-        "seller_type": "INTERMEDIARY",
-        "domain": "advenuemedia.co.uk"
-    },
-    {
-        "seller_id": "361001",
-        "name": "limelight",
-        "seller_type": "INTERMEDIARY",
-        "domain": "project-limelight.com"
-    },
-    {
-        "seller_id": "332001",
-        "name": "taboola",
-        "seller_type": "PUBLISHER",
-        "domain": "taboola.com"
-    },
-    {
-        "seller_id": "309003",
-        "name": "adtelligent",
-        "seller_type": "INTERMEDIARY",
-        "domain": "adtelligent.com"
-    },
-    {
-        "seller_id": "297001",
-        "name": "solavid",
-        "seller_type": "INTERMEDIARY",
-        "domain": "clearpier.com/solavid-publishers"
-    },
-    {
-        "seller_id": "388001",
-        "name": "redzone",
-        "seller_type": "INTERMEDIARY",
-        "domain": "redzone.co"
-    },
-    {
-        "seller_id": "414001",
-        "name": "se7en",
-        "seller_type": "INTERMEDIARY",
-        "domain": "se7en.es"
-    },
-    {
-        "seller_id": "275",
-        "name": "brave.io",
-        "seller_type": "INTERMEDIARY",
-        "domain": "thebrave.io"
- 
-    },
-    {
-        "seller_id": 418001"",
-        "name": "mobpals",
-        "seller_type": "PUBLISHER",
-        "domain": "mobpals.com"
-    },
-{
-        "seller_id": "342001",
-        "name": "smaato",
-        "seller_type": "PUBLISHER",
-        "domain": "smaato.com"
-    },
-{
-        "seller_id": "366001",
-        "name": "collectcent",
-        "seller_type": "PUBLISHER",
-        "domain": "collectcent.com"
+	"version": "1.0",
+	"sellers": [{
+			"seller_id": "268001",
+			"name": "silvermob",
+			"seller_type": "INTERMEDIARY",
+			"domain": "silvermob.com"
+		},
+		{
+			"seller_id": "358001",
+			"name": "admixer",
+			"seller_type": "INTERMEDIARY",
+			"domain": "admixer.com"
+		},
+		{
+			"seller_id": "289001",
+			"name": "smartyads",
+			"seller_type": "INTERMEDIARY",
+			"domain": "smartyads.com"
+		},
+		{
+			"seller_id": "258001",
+			"name": "clusteradmedia",
+			"seller_type": "INTERMEDIARY",
+			"domain": "clusteradmedia.com"
+		},
+		{
+			"seller_id": "292001",
+			"name": "advenuemedia",
+			"seller_type": "INTERMEDIARY",
+			"domain": "advenuemedia.co.uk"
+		},
+		{
+			"seller_id": "361001",
+			"name": "limelight",
+			"seller_type": "INTERMEDIARY",
+			"domain": "project-limelight.com"
+		},
+		{
+			"seller_id": "332001",
+			"name": "taboola",
+			"seller_type": "PUBLISHER",
+			"domain": "taboola.com"
+		},
+		{
+			"seller_id": "309003",
+			"name": "adtelligent",
+			"seller_type": "INTERMEDIARY",
+			"domain": "adtelligent.com"
+		},
+		{
+			"seller_id": "297001",
+			"name": "solavid",
+			"seller_type": "INTERMEDIARY",
+			"domain": "clearpier.com/solavid-publishers"
+		},
+		{
+			"seller_id": "388001",
+			"name": "redzone",
+			"seller_type": "INTERMEDIARY",
+			"domain": "redzone.co"
+		},
+		{
+			"seller_id": "414001",
+			"name": "se7en",
+			"seller_type": "INTERMEDIARY",
+			"domain": "se7en.es"
+		},
+		{
+			"seller_id": "275",
+			"name": "brave.io",
+			"seller_type": "INTERMEDIARY",
+			"domain": "thebrave.io"
+
+		},
+		{
+			"seller_id": "418001",
+			"name": "mobpals",
+			"seller_type": "PUBLISHER",
+			"domain": "mobpals.com"
+		},
+		{
+			"seller_id": "342001",
+			"name": "smaato",
+			"seller_type": "PUBLISHER",
+			"domain": "smaato.com"
+		},
+		{
+			"seller_id": "366001",
+			"name": "collectcent",
+			"seller_type": "PUBLISHER",
+			"domain": "collectcent.com"
+		}
+	]
+}
