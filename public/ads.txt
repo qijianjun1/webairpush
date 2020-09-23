@@ -53,3 +53,14 @@ waardex.com, 45273, RESELLER
 xapads.com, 81322, RESELLER
 yieldnexus.com, 96204, RESELLER
 zoomd.com, 756448545, RESELLER
+mars.media, 102816, DIRECT, 8624339f102fb076 
+beachfront.com, 805, RESELLER, e2541279e8e2ca4d 
+improvedigital.com, 1210, RESELLER 
+improvedigital.com, 1341, RESELLER 
+spotxchange.com, 153598, RESELLER, 7842df1d2fe2db34 
+spotx.tv, 153598, RESELLER, 7842df1d2fe2db34 
+azeriondigital.com, 4372816, DIRECT 
+pubmatic.com, 150561, RESELLER, 5d62403b186f2ace 
+indexexchange.com, 184785, RESELLER 
+districtm.io, 100434, RESELLER 
+openx.com, 537153161, RESELLER, 6a698e2ec38604c6 
